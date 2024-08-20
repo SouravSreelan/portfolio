@@ -1,8 +1,8 @@
-# My Portfolio Website
+# 🌟 My Portfolio Website 🌟
 
 Welcome to my portfolio website repository! This project showcases my skills and projects using HTML, CSS, and JavaScript.
 
-## Table of Contents
+## 📑 Table of Contents
 
 - Introduction
 - Features
@@ -13,24 +13,24 @@ Welcome to my portfolio website repository! This project showcases my skills and
 - License
 - Contact
 
-## Introduction
+## 🌐 Introduction
 
 This is my personal portfolio website where I display my projects, skills, and contact information. It's designed to give visitors a comprehensive overview of my work and capabilities.
 
-## Features
+## ✨ Features
 
 - **Responsive Design**: Works on all devices, from desktops to mobile phones.
 - **Interactive Elements**: Includes animations and interactive components.
 - **Project Showcase**: Displays my projects with descriptions and links.
 - **Contact Form**: Allows visitors to get in touch with me directly.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **HTML**: For the structure of the website.
 - **CSS**: For styling and layout.
 - **JavaScript**: For interactive elements and functionality.
 
-## Installation
+## 🚀 Installation
 
 To run this project locally, follow these steps:
 
