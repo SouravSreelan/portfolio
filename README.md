@@ -40,10 +40,12 @@ To run this project locally, follow these steps:
 💻 Usage
 Feel free to explore the website and check out my projects. You can also use the contact form to reach out to me.
 
-🤝 Contributing
+## 🤝 Contributing
+
 If you’d like to contribute to this project, please fork the repository and create a pull request. Any contributions are welcome!
 
-📬 Contact
+## 📬 Contact
+
 You can reach me at souravsreelan@gmail.com.
 
 Thank you for visiting my portfolio website repository! 🎉
