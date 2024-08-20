@@ -34,11 +34,10 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   
    git clone https://github.com/SouravSreelan/portfolio.git
 
+##  💻 Usage
 
-💻 Usage
 Feel free to explore the website and check out my projects. You can also use the contact form to reach out to me.
 
 ## 🤝 Contributing
