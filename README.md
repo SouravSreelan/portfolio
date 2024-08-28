@@ -1,6 +1,6 @@
 # 🧑‍💻 My Portfolio Website 
 
-Welcome to my portfolio website repository! This project showcases my skills and projects using HTML, CSS, and JavaScript.
+Welcome to my portfolio website repository! This project showcases my skills and projects using HTML, CSS, and JavaScript.      
 
 ## 📑 Table of Contents
 
