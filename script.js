@@ -36,8 +36,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
 
- 
-  
+   
  
 const filterPub = document.getElementById('portfolio-flters');
 const pubBtn = document.getElementById('filter-published');
