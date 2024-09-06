@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (index >= startIndex && index < endIndex) {
           item.style.display = "list-item";
         } else {
-          item.style.display = "none";
+          item.style.display = "none"; 
         }
       });
     }
