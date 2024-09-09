@@ -1,6 +1,6 @@
-# 🧑‍💻 My Portfolio Website 
+# 🧑‍💻 My Portfolio Website    
 
-Welcome to my portfolio website repository! This project showcases my skills and projects using HTML, CSS, and JavaScript.      
+Welcome to my portfolio website repository! This project showcases my skills and projects using HTML, CSS, and JavaScript.       
 
 ## 📑 Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to my portfolio website repository! This project showcases my skills and
 
 ## 🌐 Introduction
 
-This is a sample portfolio website designed to be easily customizable. You can add your own projects, skills, and contact information to create a personalized portfolio that gives visitors a comprehensive overview of your work and capabilities.
+This is a sample portfolio website designed to be easily customizable. You can add your own projects, skills, and contact information to create a personalized portfolio that gives visitors a comprehensive overview of your work and capabilities. 
 
 ## ✨ Features
 
@@ -48,4 +48,4 @@ If you’d like to contribute to this project, please fork the repository and cr
 
 You can reach me at souravsreelan@gmail.com.
 
-Thank you for visiting my portfolio website repository! 🎉
+Thank you for visiting my portfolio website repository! 🎉 
