@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
           item.style.display = "none"; 
         }
       });
-    }
+    }  
 
     showPage(currentPage);
 
