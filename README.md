@@ -14,7 +14,7 @@ Welcome to my portfolio website repository! This project showcases my skills and
 
 ## 🌐 Introduction
 
-This is a sample portfolio website designed to be easily customizable. You can add your own projects, skills, and contact information to create a personalized portfolio that gives visitors a comprehensive overview of your work and capabilities. 
+This is a sample portfolio website designed to be easily customizable. You can add your own projects, skills, and contact information to create a personalized portfolio that gives visitors a comprehensive overview of your work and capabilities.  
 
 ## ✨ Features
 
