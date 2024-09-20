@@ -42,7 +42,7 @@ Feel free to explore the website and check out my projects. You can also use the
 
 ## 🤝 Contributing
 
-If you’d like to contribute to this project, please fork the repository and create a pull request. Any contributions are welcome!
+If you’d like to contribute to this project, please fork the repository and create a pull request. Any contributions are welcome! 
 
 ## 📬 Contact
 
