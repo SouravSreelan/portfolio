@@ -24,7 +24,7 @@ This is a sample portfolio website designed to be easily customizable. You can a
 
 ## 🛠️ Technologies Used
 
-- **HTML**: For the structure of the website.
+- **HTML**: For the structure of the website. 
 - **CSS**: For styling and layout.
 - **JavaScript**: For interactive elements and functionality.
 
