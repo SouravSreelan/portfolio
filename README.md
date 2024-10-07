@@ -9,7 +9,7 @@ Welcome to my portfolio website repository! This project showcases my skills and
 - Technologies Used
 - Installation
 - Usage
-- Contributing
+- Contributing 
 - Contact
 
 ## 🌐 Introduction
