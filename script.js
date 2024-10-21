@@ -1,7 +1,7 @@
 "use strict";
 
 document.addEventListener("DOMContentLoaded", function() {
-    const listItems = Array.from(document.querySelectorAll("#pagination-list li"));
+    const listItems = Array.from(document.querySelectorAll("#pagination-list li")); 
 
     const itemsPerPage = 5; 
     let currentPage = 1; 
