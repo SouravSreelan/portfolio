@@ -19,7 +19,7 @@ This is a sample portfolio website designed to be easily customizable. You can a
 ## ✨ Features
 
 - **Responsive Design**: Works on all devices, from desktops to mobile phones.
-- **Interactive Elements**: Includes animations and interactive components.
+- **Interactive Elements**: Includes animations and interactive components.  
 - **Project Showcase**: Displays your projects with descriptions and links.
 
 ## 🛠️ Technologies Used
