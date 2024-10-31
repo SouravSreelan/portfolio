@@ -5,7 +5,7 @@ Welcome to my portfolio website repository! This project showcases my skills and
 ## 📑 Table of Contents
 
 - Introduction
-- Features
+- Features. 
 - Technologies Used
 - Installation
 - Usage
